@@ -9,9 +9,8 @@
 
 - 💬 Ask me about **my projects**
 
-- 📫 How to reach me **nicolasruchimura@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **nicolasruchimura@gmail.com**
 <p align="left">
 </p>
 
