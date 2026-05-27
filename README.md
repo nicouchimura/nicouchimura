@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Python (+Flask), Java (OOP), Web Dev (+Js, Node.js, Express)**
 
+- 👨🏻‍💻 Current working on {project}: [Currency Exchange](https://github.com/nicouchimura/currencyExchange)
+
 - 💬 Ask me about **my projects**
 
 - 📫 How to reach me **nicolasruchimura@gmail.com**
