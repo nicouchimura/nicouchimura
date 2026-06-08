@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicouchimura&label=Profile%20views&color=0e75b6&style=flat" alt="nicouchimura" /> </p>
 
-- 🌱 I’m currently learning **Python (+Flask), Java (OOP), Web Dev (+Js, Node.js, Express)**
+- 🌱 I’m currently learning **Python (+Flask), Java (OOP), Web Dev (+Js, Node.js, Express, Sequelize)**
 
 - 👨🏻‍💻 Current working on {project}: [Currency Exchange](https://github.com/nicouchimura/currencyExchange)
 
